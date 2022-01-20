@@ -1,0 +1,39 @@
+/* Top info */
+html, body{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+#top-info{
+    background-color: #e4aaaa;
+    padding: 10px 0px;
+
+}
+.top-info-container{
+    border: 1px solid green ;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.top-info-heading{
+    border: 1px ;
+    display: flex;
+    align-items: center;
+
+}
+.top-info-content{
+    border: 1px solid rgb(234, 248, 234) ;
+
+}
+.top-info-content-menu{
+    border: 1px solid rgb(9, 75, 9) ;
+
+}
+.top-info-content-social{
+
+    border: 1px solid rgb(196, 155, 22) ;
+}
